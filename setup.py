@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="rl_visualizer",
-    version="0.1.0",
+    version="0.1.1",
     author="Bedirhan Sen",
     author_email="bdrhnsen@gmail.com",
     description="A package for visualizing action probabilities, entropy, and rewards in reinforcement learning models.",
